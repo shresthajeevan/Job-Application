@@ -18,4 +18,7 @@ public interface ReviewService {
 
     // Delete a review by its ID
     boolean deleteReview(Long reviewId);
+
+    // ✅ New method to get total number of reviews
+    long getTotalReviewsCount();
 }

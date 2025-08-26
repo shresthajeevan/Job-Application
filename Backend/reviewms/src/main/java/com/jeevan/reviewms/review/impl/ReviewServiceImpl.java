@@ -58,4 +58,10 @@ public class ReviewServiceImpl implements ReviewService {
         }
         return false;
     }
+
+    // NEW: Get total number of reviews in the site
+    @Override
+    public long getTotalReviewsCount() {
+        return reviewRepository.count();
+    }
 }
