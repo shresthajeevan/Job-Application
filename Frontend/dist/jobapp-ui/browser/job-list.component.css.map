@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/jobs/job-list/job-list.component.scss"],
+  "sourcesContent": [".line-clamp-3 {\n  display: -webkit-box;\n  -webkit-line-clamp: 3;\n  -webkit-box-orient: vertical;\n  overflow: hidden;\n}\n\n.job-card {\n  transition: all 0.3s ease;\n  \n  &:hover {\n    transform: translateY(-2px);\n  }\n} "],
+  "mappings": ";AAAA,CAAA;AACE,WAAA;AACA,sBAAA;AACA,sBAAA;AACA,YAAA;;AAGF,CAAA;AACE,cAAA,IAAA,KAAA;;AAEA,CAHF,QAGE;AACE,aAAA,WAAA;;",
+  "names": []
+}

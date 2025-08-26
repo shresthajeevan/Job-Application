@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/companies/company-list/company-list.component.scss"],
+  "sourcesContent": [".animate-float {\n  animation: float 6s ease-in-out infinite;\n}\n\n@keyframes float {\n  0%, 100% { transform: translateY(0); }\n  50% { transform: translateY(-10px); }\n} "],
+  "mappings": ";AAAA,CAAA;AACE,aAAA,MAAA,GAAA,YAAA;;AAGF,WAHE;AAIA;AAAW,eAAA,WAAA;;AACX;AAAM,eAAA,WAAA;;;",
+  "names": []
+}
